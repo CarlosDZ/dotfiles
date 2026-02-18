@@ -1,0 +1,20 @@
+[general]
+location = center
+height = 800
+width = 1400
+show = drun
+
+[config]
+prompt = Type here to search :D
+allow_images = false
+allow_markup = true
+matching = strict-contains
+sort_order = alphabetical
+insensitive = true
+case_insensitive=true
+[visual]
+hide_scroll = true
+columns = 2
+gtk_dark = true
+image_size = 45
+dynamic_lines = true
