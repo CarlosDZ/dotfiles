@@ -1,0 +1,19 @@
+# Style
+font=Px437 IBM VGA 8x16
+text-color=#ffffff
+border-color=#ffffff
+border-size=2
+border-radius=8
+background-color=#0a0a0a99
+padding=12
+
+# Location
+margin=10
+anchor=top-right
+
+# Behaviour
+ignore-timeout=1
+default-timeout=6000
+max-visible=5
+group-by=app-name
+max-history=20
